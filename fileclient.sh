@@ -1,3 +1,5 @@
+cd client
+
 docker build -t assign1.0:1.0 --no-cache .
 
 docker volume create clientvol
